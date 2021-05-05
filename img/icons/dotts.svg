@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3" height="12" viewBox="0 0 3 9">
+    <defs>
+        <path id="6dtpa" d="M279 1200.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0z" />
+        <path id="6dtpb" d="M279 1194.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0z" />
+    </defs>
+    <g>
+        <g transform="translate(-279 -1193)">
+            <use fill="#e0e0e0" xlink:href="#6dtpa" />
+        </g>
+        <g transform="translate(-279 -1193)">
+            <use fill="#e0e0e0" xlink:href="#6dtpb" />
+        </g>
+    </g>
+</svg>
